@@ -1,5 +1,5 @@
-Hello there 👋
+Olá pessoinha 👋
 
-- 🌱 I’m currently learning Java, JavaScript, Selenium, Cypress and API Rest
-- 🤔 I’m looking for help with Selenium, Cypress and API Rest
-- 📫 How to reach me: luidgi.felix1@gmaiil.com OR @luidgifelix (Instagram)
+- 🌱 Estou aprendendo sobre Java, JavaScript, Selenium, Cypres e API Rest
+- 🤔 Busco ajuda e conhecimentos sobre Selenium, Cypress e API Rest
+- 📫 Como me achar: luidgi.felix1@gmail.com ou @luidgifelix (Instagram)
