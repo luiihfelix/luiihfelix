@@ -1,5 +1,5 @@
-Olá pessoinha 👋
+Salve pessoinha 👋
 
-- 🌱 Estou aprendendo sobre Java, JavaScript, Selenium, Cypress e API Rest
-- 🤔 Busco ajuda e conhecimentos sobre Selenium, Cypress e API Rest
-- 📫 Como me achar: luidgi.felix1@gmail.com ou @luidgifelix (Instagram)
+- 🌱 Estou me aperfeiçoando em automação de testes com Cypress, e prestes a começar a aprender Playwright.
+- 🤔 Estou sempre disponível para trocar conhecimento, ajudar ou aprender!
+- 📫 No LinkedIn tem mais informações sobre mim: https://www.linkedin.com/in/luidgifelix/
